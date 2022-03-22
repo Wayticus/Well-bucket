@@ -1,0 +1,15 @@
+  [
+ 
+  {
+    "type": "construction",
+    "id": "constr_well_bucket",
+    "group": "build_water_well_bucket",
+    "category": "CONSTRUCT",
+    "required_skills": [ [ "fabrication", 2 ]],
+    "time": "60 m",
+    "components": [ [ [ "rope_30", 1 ], [ "rope_makeshift_30", 1 ] ], [ [ "clay_hydria", 1 ] ], [ [ "2x4", 5 ], [ "stick", 5 ] ],  [ [ "rope_natural_short", 2, "LIST" ] ] ],
+    "pre_terrain": "t_covered_well",
+    "post_terrain": "constr_well_bucket"
+  }
+ 
+  ]

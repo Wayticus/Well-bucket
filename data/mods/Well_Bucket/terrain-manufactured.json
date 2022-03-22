@@ -1,0 +1,16 @@
+  [
+  {
+    "type": "terrain",
+    "id": "constr_well_bucket",
+    "name": "Build Water Well With Bucket",
+    "looks_like": "t_covered_well",
+    "description": "Deep well collecting ground water.  Installed A-frame with rope and 'bucket'.",
+    "symbol": "&",
+    "color": "light_gray",
+    "move_cost": 6,
+    "coverage": 40,
+    "flags": [ "TRANSPARENT", "THIN_OBSTACLE" ],
+    
+    "examine_action": "water_source"
+  }
+  ]

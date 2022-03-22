@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "well_bucket",
+    "name": "Well Bucket",
+    "authors": [ "Wayticus" ],
+    "maintainers": [ "Wayticus" ],
+    "description": "Well mod for Rycon",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
+
